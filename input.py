@@ -1,4 +1,4 @@
-"""
+
  * 胖乖生活
  * 修复小bug
  * 设置变量 PGSH_TOKEN,多号使用&隔开，青龙直接新建变量即可 ，网页获取ck：https://bigostk.github.io/pg/
